@@ -1,0 +1,69 @@
+{
+  "cart": [
+    {
+      "id": "S_7ljqBSSOM",
+      "image": "images/products/women-striped-beach-dress.jpg",
+      "name": "Women's Striped Beach Dress",
+      "rating": {
+        "stars": 4.5,
+        "count": 235
+      },
+      "priceCents": 2970,
+      "keywords": [
+        "robe",
+        "swimsuit",
+        "swimming",
+        "bathing",
+        "apparel"
+      ]
+    },
+    {
+      "id": "-lyE-YcreMo",
+      "image": "images/products/women-plain-cotton-oversized-sweater-gray.jpg",
+      "name": "Cotton Oversized Sweater - Gray",
+      "rating": {
+        "stars": 4.5,
+        "count": 317
+      },
+      "priceCents": 2400,
+      "keywords": [
+        "sweaters",
+        "apparel"
+      ]
+    },
+    {
+      "id": "06Jw_0VggGo",
+      "image": "images/products/round-sunglasses-gold.jpg",
+      "name": "Round Sunglasses",
+      "rating": {
+        "stars": 4.5,
+        "count": 30
+      },
+      "priceCents": 3560,
+      "keywords": [
+        "accessories",
+        "shades"
+      ]
+    }
+  ],
+  "order": [
+    {
+      "id": "NyTnngw9TmY",
+      "image": "images/products/women-striped-beach-dress.jpg",
+      "name": "Women's Striped Beach Dress",
+      "rating": {
+        "stars": 4.5,
+        "count": 235
+      },
+      "priceCents": 2970,
+      "keywords": [
+        "robe",
+        "swimsuit",
+        "swimming",
+        "bathing",
+        "apparel"
+      ]
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
